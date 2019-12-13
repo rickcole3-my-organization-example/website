@@ -2,6 +2,4 @@
 
 This is a really awesome website
 
-Some more stuff has changed in example
-
-Updated
+Updates made on master branch in github
